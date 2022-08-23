@@ -253,7 +253,6 @@ h4 {
 
 /* PÁGINA EXPERIÊNCIA */
 .textExp {
-    position: relative;
     height: 10em;
     margin: 0;
     position: absolute;
@@ -326,14 +325,14 @@ h4 {
 }
 
 .buttonling{
-    position: relative;
+    position: absolute;
     top: -15px;
 }
 
 /* PÁGINA CONTATO */
 
 .sectionCont h2{ 
-    position: relative;
+    position: absolute;
     height: 10em;
     margin: 0;
     position: absolute;
@@ -348,19 +347,19 @@ h4 {
 .containerCont {
     width: 830px;
     height: 100px;
-    position: relative;
+    position: absolute;
     bottom: 0;
     right: 0;
-    left: 240px;
-    top: 230px;
+    left: 340px;
+    top: -130px;
     margin: auto;
     border-radius: 55%;
 }
 
 .buttonVolt{
-    position: relative;
+    position: absolute;
     left: 0.5em;
-    top: -7em;
+    top: 1em;
 }
 
 
