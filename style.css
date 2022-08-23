@@ -271,13 +271,13 @@ h4 {
 }
 
 .buttonExp{
-    position: relative;
-    left: -12em;
+    position: absolute;
+    left: 2em;
 }
 
 /* PÁGINA LÍNGUAS */
 .sectionLing h2{
-    position: relative;
+    position: absolute;
     height: 10em;
     margin: 0;
     position: absolute;
