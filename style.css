@@ -227,8 +227,8 @@ h4 {
     position: relative;
     bottom: 0;
     right: 0;
-    left: 245px;
-    top: 720px;
+    left: 457px;
+    top: 420px;
     margin: auto;
     border-radius: 55%;
 }
@@ -362,54 +362,6 @@ h4 {
     left: 0.5em;
     top: -7em;
 }
-
-/* RESPONSIVIDADE COM 2 NÍVEIS DE PX (655,1024)
-
-
-@media (max-width: 1920px) {
-    .textHome {
-        left: 65%;
-    }
-    .textExp {
-        left: 75%;
-    }
-    .buttonExp{
-        position: relative;
-        left: -3em;
-    }
-    .textForm h2{
-        left: 100px;
-    }
-    .buttonsFormacao {
-        left: 80px;
-    }
-    .containerVid{
-        left: 500px;
-        top: 400px;
-    }
-    .buttonForm {
-        position: relative;
-        top: -12em;
-    }
-    .sectionLing h2{
-        left: 70%;
-    }
-    .sectionLing p{
-        left: 50%;
-    }
-    .ingles{
-        left: 120px;
-    }
-    .espanhol{
-        left: 120px;
-    }
-    .buttonling{
-        top: -12px;
-    }
-    .sectionCont h2{ 
-        left: 75%;
-    }
-} */
 
 
 
