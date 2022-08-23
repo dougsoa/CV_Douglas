@@ -366,7 +366,7 @@ h4 {
 /* RESPONSIVIDADE COM 2 NÍVEIS DE PX (655,1024) */
 
 
-@media (max-width: 1024px) {
+@media (max-width: 1920px) {
     .textHome {
         left: 65%;
     }
@@ -384,8 +384,12 @@ h4 {
         left: 80px;
     }
     .containerVid{
-        left: 228px;
-        top: 350px;
+        left: 500px;
+        top: 400px;
+    }
+    .buttonForm {
+        position: relative;
+        top: -12em;
     }
     .sectionLing h2{
         left: 70%;
