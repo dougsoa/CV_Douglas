@@ -139,7 +139,7 @@ h4 {
     position: relative;
     color: white;
     text-align: center;
-    top: 20px;
+    top: 12px;
     margin-bottom: 3.5rem;
     line-height: 1.2rem;
 }
@@ -148,7 +148,7 @@ h4 {
     position: relative;
     color: white;
     text-align: center;
-    top: 0px;
+    top: -23px;
     margin-bottom: 1.5rem;
     line-height: 1.2rem;
 }
