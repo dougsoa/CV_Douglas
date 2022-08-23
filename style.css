@@ -363,7 +363,7 @@ h4 {
     top: -7em;
 }
 
-/* RESPONSIVIDADE COM 2 NÍVEIS DE PX (655,1024) */
+/* RESPONSIVIDADE COM 2 NÍVEIS DE PX (655,1024)
 
 
 @media (max-width: 1920px) {
@@ -409,7 +409,7 @@ h4 {
     .sectionCont h2{ 
         left: 75%;
     }
-}
+} */
 
 
 
