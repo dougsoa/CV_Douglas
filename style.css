@@ -184,14 +184,13 @@ h4 {
 
 /* PÁGINA FORMAÇÃO */
 .textForm h5 {
-    width: 900px;
+    width: 500px;
     height: 200px;
     position: absolute;
     bottom: 0;
     right: 0;
-    left: 55px;
-    top: -100px;
-    margin: auto;
+    left: 545px;
+    top: 180px;
     border-radius: 55%;
 }
 
@@ -201,7 +200,7 @@ h4 {
     position: absolute;
     bottom: 0;
     right: 0;
-    left: 0;
+    left: 10px;
     top: 200px;
     margin: auto;
     border-radius: 55%;
@@ -213,9 +212,8 @@ h4 {
     position: absolute;
     bottom: 0;
     right: 0;
-    left: 50px;
-    top: -170px;
-    margin: auto;
+    left: 740px;
+    top: 170px;
     border-radius: 55%;
 }
 
