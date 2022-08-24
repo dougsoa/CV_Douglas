@@ -179,7 +179,7 @@ h4 {
     bottom: 0;
     right: 0;
     left: 465px;
-    top: 126px;
+    top: 139px;
     border-radius: 55%;
 }
 
@@ -232,13 +232,12 @@ h4 {
 
 /* PÁGINA LÍNGUAS */
 .sectionLing h2{
-    position: absolute;
     height: 10em;
     margin: 0;
     position: absolute;
     align-items: center;
     top: 35%;
-    left: 60%;
+    left: 660px;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     font-family: 'poppins', sans-serif;
@@ -250,7 +249,7 @@ h4 {
     position: absolute;
     bottom: 0;
     right: 0;
-    left: 27%;
+    left: 399px;
     top: -150px;
     margin: auto;
     border-radius: 55%;
@@ -294,7 +293,7 @@ h4 {
     position: absolute;
     align-items: center;
     top: 32%;
-    left: 67%;
+    left: 755px;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     font-family: 'poppins', sans-serif;
