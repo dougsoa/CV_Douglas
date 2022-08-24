@@ -1,3 +1,5 @@
+
+// FUNÇÃO PARA QUE O ONCLICK ADD AOS BOTÕES DO MENU DIRECIONEM PARA SEUS RESPECTIVOS CAMINHOS
 function index() {
   window.location = "index.html" ;
 }
@@ -20,6 +22,7 @@ function contato() {
 
 
 // BARRA DE PROGRESSO LINGUAS
+// INGLÊS
 let barra=document.getElementById("pb1");
 let ingles=0
 let intBarra=setInterval(()=>{
@@ -29,7 +32,7 @@ if(ingles>=40){
   ingles=0;
 }
 },500)
-
+// ESPANHOL
 let barraesp=document.getElementById("pb2");
 let espanhol=0
 let intBarraesp=setInterval(()=>{
