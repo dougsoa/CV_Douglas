@@ -189,8 +189,8 @@ h4 {
     position: absolute;
     bottom: 0;
     right: 0;
-    left: -150px;
-    top: 200px;
+    left: 450px;
+    top: 280px;
     margin: auto;
     border-radius: 55%;
 }
@@ -212,7 +212,7 @@ h4 {
     display: inline-block;
     position: relative;
     left: 387px;
-    top: 420px;
+    top: 260px;
 }
 
 .buttonsFormacao {
